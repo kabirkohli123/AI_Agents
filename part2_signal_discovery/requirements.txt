@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+nltk
+scikit-learn
+spacy
+uuid
