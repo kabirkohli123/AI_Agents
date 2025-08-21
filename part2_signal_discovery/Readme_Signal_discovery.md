@@ -42,8 +42,3 @@ This agent demonstrates automated **resume parsing** and **job signal discovery*
 | Kabir_resume_3.0.pdf | [Python, SQL] | [B.Tech]  | [Machine Learning] | [AI, Tech] | 31da30d8-d6ea-4d6b-965f-f6bab64a25bf       |
 
 ---
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python signal_discovery_agent.py
